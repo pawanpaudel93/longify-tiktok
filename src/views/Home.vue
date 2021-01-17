@@ -1,5 +1,6 @@
 <template>
   <v-container class="home">
+    <span class="red--text">**</span><span class="green--text overline">Supported formats: webm/mp4</span>
     <vue-dropzone
       ref="myVueDropzone"
       :useCustomSlot="true"
@@ -116,7 +117,7 @@
             this.index[id]+3 < arrLength
           ) {
             this.isReplacable[id] = true;
-            this.index[id] += 3;
+            this.index[id] += 4;
             break;
           }
           this.index[id] += 1
@@ -156,7 +157,7 @@
           this.attachments.push(attachment);
           saveAs(
             new Blob([uint8arr], {
-              type: "octet/stream",
+              type: file.type,
             }),
             "longifyTikTok-" + file.name
           );

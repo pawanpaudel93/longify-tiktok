@@ -1,6 +1,6 @@
 <template>
   <v-app-bar app color="primary" dark>
-    <v-toolbar-title>LongifyTikTok</v-toolbar-title>
+    <v-toolbar-title class="headline font-weight-bold">LongifyTikTok</v-toolbar-title>
   </v-app-bar>
 </template>
 
