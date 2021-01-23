@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/pawanpaudel93/longify-tiktok/main/src/assets/logo.png" alt="original" width="250" height="250"></p>
+
 <h1 align="center">Welcome to longify-tiktok</h1>
 <hr/>
 
