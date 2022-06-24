@@ -22,3 +22,5 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+wallet.json
+web-ardrive.build.test.json

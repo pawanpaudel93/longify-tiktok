@@ -7,7 +7,7 @@ A VUE webapp to make videos appear to be shorter by modifying the underlying dur
 
 ## Demo Website
 [LongifyTikTok](https://longifytiktok.herokuapp.com/ "LongifyTikTok")
-[Arweave Devnet URL](https://arweave.net/V6auzBHQVWe0MD7jPZlD6CHmC4Lf5-kBE0_DT9Yo5Ro)
+[Arweave URL](https://arweave.net/ujSwhIcUGFan1faeSCxQmkVu40EU2W8WE0Ze2DxUwAo)
 
 You can also checkout cli/package version similar to this webapp written in Python: [tiktok-long-video](https://github.com/pawanpaudel93/tiktok-long-video "tiktok-long-video")
 
